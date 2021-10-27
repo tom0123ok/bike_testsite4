@@ -262,6 +262,10 @@ main aside .event p {
 .mainside .sec03 {
     text-align: center
 }
+.mainside .sec03 img {
+    margin-top: 20px;
+    width: 100%;
+}
 .mainside .sec03 h3 {
     padding: 10px;
     margin: 12px 0;
@@ -275,9 +279,6 @@ main aside .event p {
 }
 .mainside .sec03 .subbord .subimg {
     width: calc(97% / 3);
-}
-.mainside .sec03 img {
-    margin-top: 20px;
 }
 .mainside .sec04 {
     text-align: center
